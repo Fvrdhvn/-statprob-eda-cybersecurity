@@ -1,2 +1,2 @@
-# -statprob-eda-cybersecurity
-Proyek 1: Eksplorasi Data, topik cybersecurity, dataset: Cybersecurity Attack Dataset
+# statprob-eda-cybersecurity
+Proyek 1: Eksplorasi Data, topik cybersecurity, dataset: Cybersecurity Attack Dataset.
